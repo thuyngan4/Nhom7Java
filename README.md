@@ -1,6 +1,6 @@
 ﻿## Hướng dẫn cài đặt chương trình:
 ### Yêu cầu: 
-- Cài đặt Java JDK 17
+- Cài đặt Java JDK 17aaaaaa
 - SQL Server
 
 ### Các bước cài đặt:
@@ -19,7 +19,7 @@
     ```
   * Tài khoản Employee
     ``` bash
-      Tài khoản: trung0
+      Tài khoản: ngan123
       Mật khẩu: 123
     ```
 
@@ -41,16 +41,16 @@
 
 #### Chức năng nhân viên (đăng nhập với user)
 - Đăng nhập/ đăng xuất
-- Quản lý Laptop:
-  * Hiển thị tất cả Laptop
-  * Thêm Laptop mới
-  * Sửa Laptop
-  * Xóa Laptop
-  * Tìm kiếm Laptop theo tên laptop
+- Quản lý điện thoại:
+  * Hiển thị tất cả điện thoại
+  * Thêm điện thoại mới
+  * Sửa điện thoại
+  * Xóa điện thoại
+  * Tìm kiếm điện thoại theo tên 
 - Quản lý đơn hàng:
-  * Hiển thị tất cả Laptop
+  * Hiển thị tất cả điện thoại
   * Thêm vào giỏ hàng
-  * Xóa Laptop trong giỏ hàng
+  * Xóa điện thoại trong giỏ hàng
   * Thanh toán để tạo đơn hàng
-  * Tìm kiếm Laptop trong bảng Laptop
+  * Tìm kiếm điện thoại trong bảng Laptop
   * Hiện lịch sử giao dịch của nhân viên đó

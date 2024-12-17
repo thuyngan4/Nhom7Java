@@ -6,7 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="dist/QuanLyNhaDat.jar"/>
-	<classpathentry kind="lib" path="C:/Users/admin/Downloads/btl-java-ql-laptop/mssql-jdbc-12.8.1.jre11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/OneDrive/Documents/githubJava/Nhom7Java/mssql-jdbc-12.8.1.jre11.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
