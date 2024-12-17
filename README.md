@@ -7,7 +7,7 @@
 - Clone hoặc tải xuống repo
 - Mở và chạy file ?.sql trong thư mục Database (SQL SERVER)
 - Mở project bằng NetBeans IDE thêm các thư viện (file JAR) trong thư mục lib vào project
-- Mở file src/quanlylaptop/Connect/ConnectDB.java: Thay đổi CODE, USERNAME và PASSWORD kết nối với SQL SERVER
+- Mở file src/quanlydienthoai/Connect/ConnectDB.java: Thay đổi CODE, USERNAME và PASSWORD kết nối với SQL SERVER
 
 ### Chạy chương trình:
 - Màn hình đăng nhập được hiển thị(chạy file login)
