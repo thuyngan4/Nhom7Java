@@ -1,12 +1,12 @@
 ﻿## Hướng dẫn cài đặt chương trình:
 ### Yêu cầu: 
-- Cài đặt Java JDK 17aaaaaa
+- Cài đặt Java JDK 22
 - SQL Server
 
 ### Các bước cài đặt:
 - Clone hoặc tải xuống repo
 - Mở và chạy file ?.sql trong thư mục Database (SQL SERVER)
-- Mở project bằng NetBeans IDE thêm các thư viện (file JAR) trong thư mục lib vào project
+- Mở project bằng Eclipse
 - Mở file src/quanlydienthoai/Connect/ConnectDB.java: Thay đổi CODE, USERNAME và PASSWORD kết nối với SQL SERVER
 
 ### Chạy chương trình:
@@ -31,7 +31,7 @@
   * Sửa 
   * Xóa
   * Tìm kiếm nhân viên theo tên
-  * Nhập/xuất dữ liệu giữa SQL và ACCOUNT.txt
+  * Nhập/xuất dữ liệu giữa SQL 
   * Xem chi tiết các đơn hàng đã thực hiện bởi 1 nhân viên
 - Báo cáo doanh thu
   * Tất cả:
@@ -52,5 +52,5 @@
   * Thêm vào giỏ hàng
   * Xóa điện thoại trong giỏ hàng
   * Thanh toán để tạo đơn hàng
-  * Tìm kiếm điện thoại trong bảng Laptop
+  * Tìm kiếm điện thoại trong bảng Phone
   * Hiện lịch sử giao dịch của nhân viên đó
